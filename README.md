@@ -2,3 +2,9 @@
 [Iris Species Classification Dataset](https://www.kaggle.com/datasets/uciml/iris)
 
 ## Requirements
+- Django
+- pandas
+- numpy
+- seaborn
+- matplotlib
+- scikit-learn
