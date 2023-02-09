@@ -1,2 +1,2 @@
 # Modify this Procfile to fit your needs
-web: gunicornIris_Species_Detection.wsgi 
+web: gunicorn Iris_Species_Detection.wsgi 
