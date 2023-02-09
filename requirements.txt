@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+django
+matplotlib
+seaborn
+whitenoise
+psycopg2-binary
+gunicorn
